@@ -8,3 +8,6 @@ https://github.com/CSSEGISandData/COVID-19
 ## Dashboard:
 <h4>COVID-19 ANALYSIS</h4>
 <img src="Dashboard.png" alt="Dashboard">
+
+<h4>COVID-19 PREDICTIONS</h4>
+<img src="Predictions.png" alt="Dashboard">
